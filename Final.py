@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: ge
+"""
+
 import requests
 import json
 
@@ -163,3 +168,6 @@ def ejecutar():
 
     
 ejecutar()
+
+
+
